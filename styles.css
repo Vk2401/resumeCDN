@@ -173,7 +173,7 @@ td {
 }
 
 .img-me:hover {
-    border: 2px solid #d7d0d5;
+    transform: scale(1.1);
 
 }
 
