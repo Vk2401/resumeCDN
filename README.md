@@ -22,7 +22,7 @@ Welcome to my online resume, where you can learn more about me and my skills. I'
 
 ## Demo
 
-<a target="_blank" href="https://vk2401.github.io/resume/">vasanth resume</a>
+<a target="_blank" href="https://vk2401.github.io/resumeCDN/">vasanth resume</a>
 
 ## Internship
 
@@ -43,7 +43,7 @@ To install and run this project on your local machine, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Vk2401/resume.git
+   git clone https://github.com/Vk2401/resumeCDN.git
 
 
 ## Contributing
